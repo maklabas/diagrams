@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T14:20:52.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" version="15.6.2" etag="LZwavEIi-0-UilEFegoW" type="github"><diagram id="Uvce87NN2cfM5ST-oc0T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-29T14:23:52.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="EVfm6MYV_K3XnQ-_2qSF" version="15.6.2" type="github">
+  <diagram id="Uvce87NN2cfM5ST-oc0T" name="Page-1">
+    <mxGraphModel dx="2261" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-2" target="iSO3i4O-jlGwYRHFAoQ7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-2" value="желание купить домен" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-4" target="iSO3i4O-jlGwYRHFAoQ7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-4" value="ввести доменное имя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-7" target="iSO3i4O-jlGwYRHFAoQ7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.47058823529414" y="759.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-7" target="iSO3i4O-jlGwYRHFAoQ7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-7" value="выбрать доменные зоны" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-9" target="iSO3i4O-jlGwYRHFAoQ7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-9" value="домен занят" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355.47058823529414" y="729.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iSO3i4O-jlGwYRHFAoQ7-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="899.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-11" value="домен свободен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSO3i4O-jlGwYRHFAoQ7-12" value="купить домен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
